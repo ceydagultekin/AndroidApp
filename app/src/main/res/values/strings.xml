@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application2</string>
+
+    <array name="decimal_options">
+        <item>İkilik</item>
+        <item>Sekizlik</item>
+        <item>On altılık</item>
+    </array>
+
+    <array name="megabyte_options">
+        <item>KiloByte</item>
+        <item>Byte</item>
+        <item>Bit</item>
+        <item>KibiByte</item>
+    </array>
+
+</resources>
